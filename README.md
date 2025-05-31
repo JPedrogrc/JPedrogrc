@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Pedro Garcia, tenho 20 anos e sou natural de Manaus - AM. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC AM. Sou apaixonado por tecnologia desde pequeno e hoje estou a procura de mergulhar completamente nesse mundo.
+Me chamo João Pedro Garcia, tenho 21 anos e sou natural de Manaus - AM. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC AM. Sou apaixonado por tecnologia desde pequeno e hoje estou a procura de mergulhar completamente nesse mundo.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-garcia-7a8a331b2/">
