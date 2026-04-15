@@ -52,8 +52,9 @@ Olá! Sou o João Pedro Garcia, tenho 22 anos e sou de Manaus - AM. Atualmente, 
 
 ### 📊 Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPedrogrc&show_icons=true&theme=dracula&count_private=true&hide=commits"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedrogrc&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JPedrogrc&theme=dracula" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedrogrc&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
 ---
