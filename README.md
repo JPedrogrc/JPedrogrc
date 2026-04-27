@@ -68,5 +68,5 @@ Olá! Sou o João Pedro Garcia, tenho 22 anos e sou de Manaus - AM. Atualmente, 
 ### 🌐 Idiomas & Interesses
 * 🇺🇸 **Inglês**: Praticando conversação.
 * 🇯🇵 **Japonês**: Estudando Hiragana e Katakana.
-* 🎮 **Gaming**: Blasphemous, Stardew Valley e desenvolvimento de sistemas de RPG.
+* 🎮 **Gaming**: ARK, Blasphemous, Terraria e desenvolvimento de sistemas de RPG.
 * ⚙️ **Hardware**: Manutenção de sistemas Xeon e automação com ESP32.
