@@ -22,7 +22,7 @@ Olá! Sou o João Pedro Garcia, tenho 22 anos e sou de Manaus - AM. Atualmente, 
 
 * **GastroTag**: Sistema de controle de qualidade e validade para laboratórios de gastronomia universitários.
 * **Evolua-me**: Plataforma adaptativa para gestão de estudos e acompanhamento acadêmico.
-* **RPG Status Calc**: Calculadora de atributos para sistemas de RPG (Call of Cthulhu / Ordem Paranormal) desenvolvida em Python/Streamlit.
+* **StatForge**: Calculadora de atributos para sistemas de RPG (Call of Cthulhu / Ordem Paranormal) desenvolvida em Python/Streamlit.
 
 ---
 
