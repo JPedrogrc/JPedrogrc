@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer | ADS Student | Hardware Enthusiast`**
 
-Olá! Sou o João Pedro Garcia, tenho 22 anos e sou de Manaus - AM. Atualmente, curso o 3° período de Análise e Desenvolvimento de Sistemas no SENAC AM. Minha jornada envolve desde o desenvolvimento de aplicações web robustas até o "baixo nível" com hardware e microcontroladores.
+Olá! Sou o João Pedro Garcia, tenho 22 anos e sou de Manaus - AM. Atualmente, curso o 4° período de Análise e Desenvolvimento de Sistemas no SENAC AM. Minha jornada envolve desde o desenvolvimento de aplicações web robustas até o "baixo nível" com hardware e microcontroladores.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-garcia-7a8a331b2/">
