@@ -95,7 +95,7 @@ Missão:      Ir do HTML no navegador até o registrador no microcontrolador
 
 ## 🎮 Side Quests
 
-- 🕹️ **Jogando:** ARK, Blasphemous e Terraria
+- 🕹️ **Jogando:** ARK, Blasphemous e Terraria, Graveyard Keeper
 - 🎲 **Mestrando em código:** sistemas de RPG de mesa (e as ferramentas para eles)
 - ⚙️ **Na bancada:** manutenção de sistemas Xeon e automação com ESP32
 - 🈶 **Estudando:** Hiragana e Katakana
