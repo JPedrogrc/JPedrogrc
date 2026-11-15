@@ -58,7 +58,7 @@ Missão:      Ir do HTML no navegador até o registrador no microcontrolador
     </td>
     <td width="33%" valign="top">
       <h3>🐙 StatForge</h3>
-      <p>Calculadora de atributos para RPG de mesa (Call of Cthulhu / Ordem Paranormal).</p>
+      <p>Calculadora de atributos para RPG de mesa de acordo com cada regra (Call of Cthulhu / Ordem Paranormal).</p>
       <p><b>Stack:</b> Python · Streamlit</p>
       <p><a href="https://github.com/JPedrogrc/StatForge">Ver repositório →</a></p>
     </td>
